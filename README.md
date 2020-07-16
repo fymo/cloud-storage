@@ -10,7 +10,7 @@ This project implements the basics ofr Spring Boot and Spring MVC
 3. **Password Management:** Save, edit, and delete website credentials.  
 
 
-## Teck
+## Tech
 - Spring Boot and Spring MVC with Thymeleaf
 - Spring Data JPA
 - File Upload using Spring
